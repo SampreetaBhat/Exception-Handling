@@ -14,8 +14,9 @@ public class FinallyBlock {
 		}
 		finally {
 		System.out.println("hello"+" ");
-		}
 		s.close();
+		}
+	
 
 	}
 
